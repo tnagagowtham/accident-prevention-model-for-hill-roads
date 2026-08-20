@@ -1,4 +1,4 @@
-# 🛣️ Hardware-Based Accident Prevention Concept Model for Hill Roa
+# 🛣️ Hardware-Based Accident Prevention Concept Model for Hill Road
 
 A hardware-only early-warning system built to reduce blind-curve collisions
 on hairpin bends along hill roads, using IR sensors and a warning signal.
